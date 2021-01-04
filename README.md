@@ -1,2 +1,2 @@
-# cv-example1
+# cv-example-app
 swift
