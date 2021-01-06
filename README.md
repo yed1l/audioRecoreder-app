@@ -1,2 +1,2 @@
 # cv-example-app
-SWIFT
+ios; swift
